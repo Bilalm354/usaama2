@@ -1,0 +1,68 @@
+html,
+body {
+  min-width: 100%;
+  min-width: 100%;
+}
+
+body {
+  background: url(./img/68982820_2371685173072884_8594185853708795904_n.jpg)
+    center center fixed no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.name {
+  color: white;
+  font-family: sans-serif;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 1em;
+}
+
+.spotify {
+  margin-top: 6em;
+}
+
+/* Social Media Buttons */
+.social {
+  font-size: 2.5em;
+  margin-bottom: 0.4em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.fa {
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+/* 
+.fa-facebook {
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-spotify {
+  background: #1cd760;
+  color: white;
+} */
